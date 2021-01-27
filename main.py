@@ -5,3 +5,4 @@ for number in lista_zakupow:
 print(f"W sumie kupuję {sum(len(item) for item in lista_zakupow.values())} produktów")
 print('pierwsza edycja')
 print('druga edycja')
+print('trzecia edycja')
